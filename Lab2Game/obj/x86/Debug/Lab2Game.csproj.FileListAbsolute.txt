@@ -1,0 +1,8 @@
+C:\Users\Andy\documents\visual studio 2010\Projects\Lab2Game\Lab2Game\obj\x86\Debug\Lab2Game.Form1.resources
+C:\Users\Andy\documents\visual studio 2010\Projects\Lab2Game\Lab2Game\obj\x86\Debug\Lab2Game.Properties.Resources.resources
+C:\Users\Andy\documents\visual studio 2010\Projects\Lab2Game\Lab2Game\bin\Debug\Lab2Game.exe
+C:\Users\Andy\documents\visual studio 2010\Projects\Lab2Game\Lab2Game\bin\Debug\Lab2Game.pdb
+C:\Users\Andy\documents\visual studio 2010\Projects\Lab2Game\Lab2Game\obj\x86\Debug\Lab2Game.exe
+C:\Users\Andy\documents\visual studio 2010\Projects\Lab2Game\Lab2Game\obj\x86\Debug\Lab2Game.pdb
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\Lab2Game\Lab2Game\obj\x86\Debug\Lab2Game.csproj.GenerateResource.Cache
+C:\Users\Andy\Documents\Visual Studio 2010\Projects\Lab2Game\Lab2Game\obj\x86\Debug\Lab2Game.csprojResolveAssemblyReference.cache
